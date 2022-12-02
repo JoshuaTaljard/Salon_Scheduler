@@ -11,7 +11,7 @@ MAIN_MENU() {
     echo -e "\n$1"
   fi
 
-  echo -e "1) blowDry\n2) color\n3) perm\n4) style\n5) trim"
+  echo -e "1) blowDry\n2) straighten\n3) curl\n4) style\n5) wash"
   read SERVICE_ID_SELECTED
   case $SERVICE_ID_SELECTED in
     1) CUSTOMER_MENU ;;
