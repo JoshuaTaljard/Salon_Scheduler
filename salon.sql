@@ -191,11 +191,11 @@ INSERT INTO public.customers VALUES (71, '555-555-5555', 'Fabio');
 -- Data for Name: services; Type: TABLE DATA; Schema: public; Owner: freecodecamp
 --
 
-INSERT INTO public.services VALUES (1, 'cut');
-INSERT INTO public.services VALUES (2, 'color');
-INSERT INTO public.services VALUES (3, 'perm');
+INSERT INTO public.services VALUES (1, 'blowDry');
+INSERT INTO public.services VALUES (2, 'straighten');
+INSERT INTO public.services VALUES (3, 'curl');
 INSERT INTO public.services VALUES (4, 'style');
-INSERT INTO public.services VALUES (5, 'trim');
+INSERT INTO public.services VALUES (5, 'wash');
 
 
 --
